@@ -2,7 +2,7 @@
 
 ### 🤓 Personal Information
 - 🌍 Germany
-- 🎂 15 yr old
+- 🎂 16 yr old
 - 💻 Python, Java, C#, JS
 - 👉 Always trying to learn new stuff
 
