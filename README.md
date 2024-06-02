@@ -8,5 +8,4 @@
 
 ### 🟩 Current Projects
 
-- AFFE (Advanced Forwarding File Explorer)
-- Little Game Engine CS Port
+- AdvancedCLI
