@@ -8,4 +8,4 @@
 
 ### 🟩 Current Projects
 
-- c++ GUI Framework
+- Inverto V2 out now!
