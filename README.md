@@ -8,4 +8,5 @@
 
 ### 🟩 Current Projects
 
-- Inverto V2 out now!
+- inverto - CS2 Cheat
+- modular - Event Library
