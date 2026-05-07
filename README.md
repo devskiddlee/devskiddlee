@@ -2,8 +2,8 @@
 
 ### 🤓 Personal Information
 - 🌍 Germany
-- 🎂 17 yr old
-- 💻 C++, Python, Java, C#,  JS, Go, Kotlin
+- 🎂 18 yr old
+- 💻 C++, C, Python, Java, C#,  JS, Go, Kotlin
 - 👉 Always trying to learn new stuff
 
 ### 🟩 Current Projects
