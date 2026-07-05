@@ -7,3 +7,4 @@
 - 👉 Always trying to learn new stuff
 
 ### 🟩 Current Projects
+- ❌
